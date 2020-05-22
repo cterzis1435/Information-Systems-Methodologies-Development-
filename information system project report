@@ -19,6 +19,12 @@ Therefore, the CMS will provide a way to automate current processes within the t
 Objectives 
 
 Assumptions
+- There are enough RMs on shift to deal with the flow of customers on a regular day
+- Same RMs are on shift every day
+- RMs have knowledge on all of the travel packages being offered by the company
+- RMs have the ability to transfer customers on the call to different RMs who are more knowledgeable about the travel packages that are being discussed
+- Customers are aware of the different packages being offered through the media advertisement
+
 
 Stakeholders 
 
