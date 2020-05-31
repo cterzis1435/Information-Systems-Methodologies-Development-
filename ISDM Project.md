@@ -108,7 +108,7 @@ We also used the Point of View statements created to empathise with stakeholders
 
 
 ## Diagrams
-Use Case Diagrams
+### Use Case Diagrams
 ![Use Case 1 New](https://user-images.githubusercontent.com/62529427/83348763-c54d5400-a372-11ea-94e3-8b32e130d15d.png)
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
 ![ISDM Case Diagrams - Use Case 3 New](https://user-images.githubusercontent.com/61954383/83350931-fcc3fc80-a382-11ea-8212-a0a1f5fbfd3e.png)
@@ -116,14 +116,15 @@ Use Case Diagrams
 ![Use Case 5 New](https://user-images.githubusercontent.com/62529427/83348809-2543fa80-a373-11ea-8e1f-123d48bf5bb2.png)
 ![ISDM Case Diagrams - Use Case Overall](https://user-images.githubusercontent.com/61954383/83351019-e5394380-a383-11ea-84a6-ecbeb0e8b2f5.png)
 
-Class Diagrams
+### Class Diagrams
+![ISDM Case Diagrams - NEW Class Diagram](https://user-images.githubusercontent.com/61954383/83351059-33e6dd80-a384-11ea-86ec-ff70dcfb47a9.png)
 
-Collaborative Diagrams
+### Collaborative Diagrams
 ![Inbound Collab-D](https://user-images.githubusercontent.com/62529427/83348873-9aafcb00-a373-11ea-8852-32155f10ce57.png)
 ![Outbound Collab-D](https://user-images.githubusercontent.com/62529427/83348907-be731100-a373-11ea-82f9-8d0318023fb4.png)
 ![RM Profile Collab-D](https://user-images.githubusercontent.com/62529427/83348929-e8c4ce80-a373-11ea-86e9-57011fdfb58e.png)
 
-Activity Diagrams
+### Activity Diagrams
 
 
 
