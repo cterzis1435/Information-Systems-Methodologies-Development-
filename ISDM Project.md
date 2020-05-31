@@ -75,6 +75,14 @@ End-Customers:
 * Customers profiles are created using the profiler tool before being matched with the appropriate RM on the phone.
 * Call routing and distribution routine has information about customers to distribute call to correct RM who specialises on travel packages.
 
+## Reflection
+
+After analysing the travel company’s situation, it is assumed that there are enough Relationship Managers (RMs) every day, and the same RMs are hired on a full-time contract, resulting in consistency of shift and service provided. All RMs are assumed to have basic knowledge of all travel packages being offered by the travel company, however are not required to specialise in all product areas. Hence, RMs are assumed to have the capability to transfer their customer on a call to a different RM, who can assist their specific requirements. This may occur if the first RM was wrongly matched to the customer by the system, if there is a more specialised RM in the product, or other relevant reasons. Additionally, it is assumed that customers have the ability to discover the different packages the travel company offers, through other media platforms such as advertisements, a website and social media. It is further assumed that when customers get in a call with the RM, they are not only able to receive information about travel packages and other services, as well as, purchase the product they would like in the same conversation. It is assumed that prior to being matched with an appropriate RM, customer profiles are created using the Profiler Tool. The CMC System through the call routing and distribution routine has customer information necessary to properly distribute the call to the appropriate RM for the travel package requested.
+
+
+We also used the Point of View statements created to empathise with stakeholders’ and understand their challenges and needs, to develop How Might We (HMW) statements. These HMW statements help us understand what is needed in the new system for the stakeholders’ to have it running effectively.
+
+
 ## Backlog Table
 | UserStory# | User Story                                                                                                                                                                                                                                | Estimation | Status      | Priority |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|----------|
