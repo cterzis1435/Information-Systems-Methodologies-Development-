@@ -65,11 +65,15 @@ End-Customers:
 * HMW ensure that our personal data is being protected while using the CMC System to help maintain data confidentiality 
 * HMW order the travel packages that are being offered?
 
-
-
-
-
-
+## Assumptions 
+* There are enough RMs on shift to deal with the flow of customers on a regular day.
+* Same RMs are on shift every day.
+* RMs have knowledge on all of the travel packages being offered by the company.
+* RMs have the ability to transfer customers on the call to different RMs who are more knowledgeable about the travel packages that are  being discussed.
+* Customers are aware of the different packages being offered through the social media platforms. 
+* Customers are able to order the travel packages straight from the RM.
+* Customers profiles are created using the profiler tool before being matched with the appropriate RM on the phone.
+* Call routing and distribution routine has information about customers to distribute call to correct RM who specialises on travel packages.
 
 ## Backlog Table
 | UserStory# | User Story                                                                                                                                                                                                                                | Estimation | Status      | Priority |
