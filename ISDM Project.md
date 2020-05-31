@@ -71,7 +71,7 @@ End-Customers:
 
 
 
-### Backlog Table
+## Backlog Table
 | UserStory# | User Story                                                                                                                                                                                                                                | Estimation | Status      | Priority |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|----------|
 | 101        | As a Relationship Manager, I want to improve the CMC System to improve the efficiency of calls in the system, so that we contact more potential end-customers.                                                                            | 8          | In-Progress | High     |
@@ -93,7 +93,7 @@ End-Customers:
 
 
 
-# Diagrams
+## Diagrams
 Use Case Diagrams
 ![Use Case 1 New](https://user-images.githubusercontent.com/62529427/83348763-c54d5400-a372-11ea-94e3-8b32e130d15d.png)
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
