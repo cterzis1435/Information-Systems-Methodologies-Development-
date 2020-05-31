@@ -83,6 +83,8 @@ After analysing the travel company’s situation, it is assumed that there are e
 We also used the Point of View statements created to empathise with stakeholders’ and understand their challenges and needs, to develop How Might We (HMW) statements. These HMW statements help us understand what is needed in the new system for the stakeholders’ to have it running effectively.
 
 
+
+
 ## Backlog Table
 | UserStory# | User Story                                                                                                                                                                                                                                | Estimation | Status      | Priority |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|----------|
@@ -119,5 +121,17 @@ Collaborative Diagrams
 ![RM Profile Collab-D](https://user-images.githubusercontent.com/62529427/83348929-e8c4ce80-a373-11ea-86e9-57011fdfb58e.png)
 
 Activity Diagrams
+
+## Competitive Advantage
+In successfully developing a more efficient call management centre system, the travel agency’s operational and financial status could improve, hence potentially gaining a competitive advantage amongst the tourism industry.
+
+By developing profiling and matching tools, customers are better able to connect with informed relationship managers (RM), who specialise in the demands of the particular customer calling. In this way, RMs can efficiently address customers’ needs and confidently answer their questions, providing a better quality service. This not only leads to stronger customer relationships, but also retains customer loyalty and would thus generate repeat sales. This advantageously differentiates the company from other travel agencies, as the company provides a specialised service, which benefits customers more than traditional services. Hence, due to the change in system operations, the company would gain a stronger competitive advantage.
+
+Due to the system change, there might be improved employee morale, as they can focus more on providing good service based on their strengths. This would establish a more attractive workplace for employees to want to work at, developing a positive image for the company and placing them at a stronger competitive advantage. Customers would also value being able to speak with a knowledgeable and skillful RM, increasing their satisfaction with the company and potentially leading to positive feedback and reviews. This would boost the company’s reputation, which would heavily strengthen their position amongst competition.
+
+As communication becomes more efficient, due to queuing and rerouting functions in the proposed system, calls would become quicker, meaning the company would be able to get through more customers in the same amount of time as before. Additionally, by redesigning the call routing and distribution routine, inbound call costs are minimized as per-call handling time is reduced. These innovative changes save on company costs, enabling increased profits in the long-term and hence better positioning within the competitive tourism market.
+
+
+
 
 
