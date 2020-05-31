@@ -1,13 +1,13 @@
-# Executive Summary
+## Executive Summary
 This report outlines the analysis of an existing information system, the in-house Call Management Centre (CMC), at a major travel agency. It will offer a proposal of an improved system, that will provide assistance to employees at the agency, Relationship Managers (RM), so that they can provide a high quality, efficient service for customers, in order to improve company sales. In order to elicit requirements and generate an understanding of the overall system, analysis of the company’s description was undertaken, and any gaps in understanding were assumed.
 
-# Project Objectives
+## Project Objectives
 The main objective of this project is to introduce an upgraded call management centre system, to improve the operations of a major travel company, helping them generate more sales. Due to the varying number and nature of their products (holiday travel packages) their current system is complicated. The new system aims to provide a tool that simplifies business processes and matches customers with specific RMs who can provide tailored services according to their skill profiles. The project implementation will enable the ability to provide a more specific and efficient service and establish strong customer relationships, resulting in repeat sales with loyal customers.
 
-# Problem Definition
+## Problem Definition
 Creating strong customer relationships and improving service is a key goal for the major travel agency, as this provides them with greater sales and an advanced mechanism for employee-to-customer communication. Currently, their system doesn’t deliver their service to the standard of quality and efficiency that they desire. The stagnant status of their operations signals the need for change, in order to meet their long-term operational objectives. To upgrade their call centre management system, the procedures of communication should be re-designed, via improved call routing and dynamic flow control for both inbound and outbound calls and by aiding employees such as Relationship Managers (RM) in serving customers, through profile matching mechanisms. In this way, the travel agency can streamline their operations and develop an efficient manner of communication for employees and customers, further leading to stronger sales.
 
-# Stakeholders
+## Stakeholders
 
 *Internal*:
 
