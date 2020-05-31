@@ -6,20 +6,14 @@ to improve company sales. In order to elicit requirements and generate an unders
 the company’s description was undertaken, and any gaps in understanding were assumed.
 
 **Problem Definition**
-Choosing travel packages can be time-consuming and difficult due to the vast amount of information available online. 
-The first step in design thinking is to emphasise with the customer to determine their requirements for the new system. 
-Empathising with the customer means to observe, listen and engage with them.
-Second step is to define the problem once the customer needs are understood. 
-Furthermore, the new system will allow calls from customers to be routed to certain relationship managers 
-who can help them choose the right holiday package.
-The relationship manager will differentiate customers on the basis of the Profiler tool which contains 
-all of the customers information like name, age, and culture.
-The information provided in the Profiler will increase the possibility of the relationship manager 
-landing and closing a sale with the customer. 
-The information provided in the Profiler allows the relationship manager to build a connection with the customer 
-which is vital in making a sale. 
-Thus, the call management system will add significant value to the organisation and will help improve current work processes.
-Therefore, the CMS will provide a way to automate current processes within the travel company which currently require human intervention. 
+Creating strong customer relationships and improving service is a key goal for the major travel agency, as this provides 
+them with greater sales and an advanced mechanism for employee-to-customer communication. Currently, their system doesn’t 
+deliver their service to the standard of quality and efficiency that they desire. The stagnant status of their operations 
+signals the need for change, in order to meet their long-term operational objectives. To upgrade their call centre management 
+system, the procedures of communication should be re-designed, via improved call routing and dynamic flow control for both 
+inbound and outbound calls and by aiding employees such as Relationship Managers (RM) in serving customers, through profile 
+matching mechanisms. In this way, the travel agency can streamline their operations and develop an efficient manner of 
+communication for employees and customers, further leading to stronger sales.
 
 Objectives 
 The main objective of this project is to introduce an upgraded call management centre system,
@@ -231,15 +225,22 @@ HMW ensure that our personal data is being protected while using the CMS to help
 
 Reflection on Assumptions 
 
-After analysing the travel company’s situation, it is assumed that there are enough Relationship Managers (RMs) every day, 
-and the same RMs are hired on a full-time work type, meaning they have the same shift every day of the week, 
-maintaining consistency of their service offering. All RMs are assumed to have basic knowledge of all travel packages 
-being offered by the travel company, however are not required to specialize in all product areas. Hence, RMs are assumed 
-to have the capability to be able to transfer their customer on a call to a different RM, who can assist their specific 
-requirements. This may occur if the first RM was wrongly matched to the customer by the system, if the RM knows that another 
-RM can handle their customer’s enquiries better, or other relevant reasons. Additionally, it is assumed that customers have 
-the ability to discover the different packages the travel company offers, through other media platforms such as advertisements,
-a website and social media.
+After analysing the travel company’s situation, it is assumed that there are enough Relationship Managers (RMs) every day,
+and the same RMs are hired on a full-time contract, resulting in consistency of shift and service provided. All RMs are 
+assumed to have basic knowledge of all travel packages being offered by the travel company, however are not required to 
+specialise in all product areas. Hence, RMs are assumed to have the capability to transfer their customer on a call to a
+different RM, who can assist their specific requirements. This may occur if the first RM was wrongly matched to the customer
+by the system, if there is a more specialised RM in the product, or other relevant reasons. Additionally, it is assumed that 
+customers have the ability to discover the different packages the travel company offers, through other media platforms such 
+as advertisements, a website and social media. It is further assumed that when customers get in a call with the RM, they are
+not only able to receive information about travel packages and other services, as well as, purchase the product they would 
+like in the same conversation. It is assumed that prior to being matched with an appropriate RM, customer profiles are 
+created using the Profiler Tool. The CMC System through the call routing and distribution routine has customer information 
+necessary to properly distribute the call to the appropriate RM for the travel package requested.
+
+
+We also used the Point of View statements created to empathise with stakeholders’ and understand their challenges and needs, to develop How Might We (HMW) statements. These HMW statements help us understand what is needed in the new system for the stakeholders’ to have it running effectively.
+
 
 
 
@@ -328,6 +329,20 @@ As a relationship manager I want to be able to efficiently use my skills and pro
 As a Relationship manager, I want to be matched with customers requesting the appropriate travel package so that my expertise on the travel package is used
 As a Relationship Manager I want a skills matrix to be made for myself from the initial questionnaire so that I can be matched properly with customers
 As a Customer, I want to be routed to a call efficiently, based on my skill score.
+
+POSSIBLE ADVERSE EFFECTS:
+If the proposed project implementation were to fail, this would result in various adverse impacts on the social, financial
+and operational aspects of the company. Foremost, investments made for the planning, tools and other labour involved in 
+the implementation of the project would be lost, which could negatively impact the travel agency’s profits and long-term 
+financial position. The company would now have to spend further allocated time and money on developing and testing a new 
+system or instead planning how to modify the system to implement it successfully. This would cause delays in future business 
+plans, for example expansion or differentiation plans, inhibiting their abilities to fulfil their business objectives.
+Employees of the travel agency also become unfavourably impacted by the system project failure, as they may become 
+frustrated and unmotivated to perform their tasks, due to the disruptive changes in the workplace. This may lead to weaker 
+customer relationships and hence decreased total sales generated. This impact may reflect in social aspects, such as 
+reputational damage, where the company may be seen as incapable of producing and implementing a functional system, 
+potentially impacting their corporate status and relationship with other businesses.
+
 
 
 Conclusion 
