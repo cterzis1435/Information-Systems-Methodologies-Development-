@@ -20,3 +20,10 @@ Uni work
 | 206        | As an End Customer, I want to be directed by an interactive Voice Unit if I am waiting for a long time, so that I can then be redirected to the first available RM for my enquiries                                                       | 3          | In-Progress | Medium   |
 | 207        | As an End Customer, I want to know the travel packages available, so that I can choose the package that best suits me                                                                                                                     | 3          | In-Progress | Low      |
 | 208        | As an End Customer, I want the profiler tool to create a profile for me, so that I can get matched to the appropriate                                                                                                                     | 1          | In-Progress | High     |
+
+
+
+
+Empathy Maps
+![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png)
+![Empathy Map- RM](https://user-images.githubusercontent.com/62529427/83345571-14d25680-a358-11ea-9820-4923c72f36a7.png)
