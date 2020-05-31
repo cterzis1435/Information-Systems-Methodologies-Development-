@@ -44,3 +44,21 @@ End Customers need a way to get assistance quickly, because we don’t like to w
 End Customers need a way to be assured that our personal data is being protected when using the CMS because of the need to maintain data confidentiality 
 End Customers need a way to be able to order the travel packages chosen with the RM because that will allow us to go on the trip
 
+‘How Might We’ Statements (HMW)
+
+Relationship Managers:
+HMW improve the CMC to attract more end-customers?
+HMW connects with customers more easily to make their communication with the customer more efficient?
+HMW effectively uses our skills and product knowledge at an extensive level to help increase our sales?
+HMW get customers to be matched with the correct RM with the correct product knowledge?
+HMW create and update our skill matrix so that our profile is accurate?
+HMW use our old knowledge of the system and implement our knowledge into the use of the new system?
+
+End-Customers:
+HMW communicates with the travel agents in a simple manner to get the information we need?
+HMW matches with a helpful and knowledgeable RM to efficiently discuss travel packages?
+HMW get quick assistance to not keep us waiting on the phone for too long?
+HMW ensure that our personal data is being protected while using the CMC System to help maintain data confidentiality 
+HMW order the travel packages that are being offered?
+
+
