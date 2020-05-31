@@ -1,7 +1,32 @@
-# Information-Systems-Methodologies-Development-
-Uni work
+# Executive Summary
+This report outlines the analysis of an existing information system, the in-house Call Management Centre (CMC), at a major travel agency. It will offer a proposal of an improved system, that will provide assistance to employees at the agency, Relationship Managers (RM), so that they can provide a high quality, efficient service for customers, in order to improve company sales. In order to elicit requirements and generate an understanding of the overall system, analysis of the company’s description was undertaken, and any gaps in understanding were assumed.
 
+# Project Objectives
+The main objective of this project is to introduce an upgraded call management centre system, to improve the operations of a major travel company, helping them generate more sales. Due to the varying number and nature of their products (holiday travel packages) their current system is complicated. The new system aims to provide a tool that simplifies business processes and matches customers with specific RMs who can provide tailored services according to their skill profiles. The project implementation will enable the ability to provide a more specific and efficient service and establish strong customer relationships, resulting in repeat sales with loyal customers.
 
+# Problem Definition
+Creating strong customer relationships and improving service is a key goal for the major travel agency, as this provides them with greater sales and an advanced mechanism for employee-to-customer communication. Currently, their system doesn’t deliver their service to the standard of quality and efficiency that they desire. The stagnant status of their operations signals the need for change, in order to meet their long-term operational objectives. To upgrade their call centre management system, the procedures of communication should be re-designed, via improved call routing and dynamic flow control for both inbound and outbound calls and by aiding employees such as Relationship Managers (RM) in serving customers, through profile matching mechanisms. In this way, the travel agency can streamline their operations and develop an efficient manner of communication for employees and customers, further leading to stronger sales.
+
+# Stakeholders
+
+*Internal*:
+
+**Relationships Manager (RM)**
+The RM is a key stakeholder in this project as they are the main users and are the employees of the travel agency who directly interact with the system and company. The requirements of RMs are important as they will impact the way in which the system is designed and implemented.
+
+**End-customer**
+The end-customer is a consumer of the services and potential buyer of the products provided by the travel agency. The system should be designed for their ease of use, as they are the stakeholders who provide sales for the travel agency.
+
+**Shareholders**
+Shareholders own a portion of the company, and thus are included as stakeholders, as they obtain partial interest in business activities. If the system fails, it impacts their position and contribution to the travel agency.
+
+*External:*
+
+**Media platforms**
+Technological platforms, including social media applications, websites, blogs and email, are stakeholders in the travel agency as they are involved in the marketing and communications of company activity.
+
+**Telecommunications company**
+The CMC involves calling via telephone as a main function to connect customers with the company, hence the telecommunication company is involved in assuring their service supports the system.
 
 ## Empathy Maps
 ![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png)
