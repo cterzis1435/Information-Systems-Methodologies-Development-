@@ -1,3 +1,68 @@
+**Executive Summary**
+This report outlines the analysis of an existing information system, the in-house Call Management Centre (CMC), 
+at a major travel agency. It will offer a proposal of an improved system, that will provide assistance to employees at 
+the agency, Relationship Managers (RM), so that they can provide a high quality, efficient service for customers, in order 
+to improve company sales. In order to elicit requirements and generate an understanding of the overall system, analysis of 
+the company’s description was undertaken, and any gaps in understanding were assumed.
+
+**Problem Definition**
+Choosing travel packages can be time-consuming and difficult due to the vast amount of information available online. 
+The first step in design thinking is to emphasise with the customer to determine their requirements for the new system. 
+Empathising with the customer means to observe, listen and engage with them.
+Second step is to define the problem once the customer needs are understood. 
+Furthermore, the new system will allow calls from customers to be routed to certain relationship managers 
+who can help them choose the right holiday package.
+The relationship manager will differentiate customers on the basis of the Profiler tool which contains 
+all of the customers information like name, age, and culture.
+The information provided in the Profiler will increase the possibility of the relationship manager 
+landing and closing a sale with the customer. 
+The information provided in the Profiler allows the relationship manager to build a connection with the customer 
+which is vital in making a sale. 
+Thus, the call management system will add significant value to the organisation and will help improve current work processes.
+Therefore, the CMS will provide a way to automate current processes within the travel company which currently require human intervention. 
+
+Objectives 
+The main objective of this project is to introduce an upgraded call management centre system,
+to improve the operations of a major travel company, helping them generate more sales. 
+Due to the varying number and nature of their products, holiday packages, their current system is complicated, 
+so the new system aims to provide a tool which simplifies this, and matches customers with specific Relationship Managers 
+who can provide tailored services according to their skill profiles. 
+The project implementation will enable the ability to provide a more specific
+and efficient service and establish strong customer relationships, resulting in repeat sales.
+
+Assumptions
+- There are enough RMs on shift to deal with the flow of customers on a regular day
+- Same RMs are on shift every day
+- RMs have knowledge on all of the travel packages being offered by the company
+- RMs have the ability to transfer customers on the call to different RMs who are more knowledgeable about the travel packages that are being discussed
+- Customers are aware of the different packages being offered through the media advertisement
+
+
+Stakeholders 
+INTERNAL:
+- Relationship Managers (from CMC)
+- End-Customers/potential buyers
+- Investors/Shareholders - provides funding 
+
+EXTERNAL:
+- Media Platforms - advertises travel packages via email and social media.
+- Telecommunications company 
+
+
+
+Point of view statements (POV)
+Relationship Manager
+Relationship Managers need a way to improve the CMC system because the company would like to attract more end-customers.
+Relationship Managers need a way to connect with customers easily, because it makes their work more efficient.
+Relationship Managers need a way to more effectively use their skills and product knowledge, because it would help create more sales.
+
+End Customer 
+End customers need a way to communicate in a simple manner with the travel agents in order to obtain the information we require 
+End Customers need a way to be matched with a helpful and knowledgeable relationship manager because we need to be able to efficiently communicate our travel plans
+End Customers need a way to get assistance rapidly, because we don’t like to wait for long periods of time on a call.
+End customers need a way to be assured that my personal data is being protected when using the CMS because of the need to maintain data confidentiality 
+
+=======
 #Executive Summary
 
 #Problem Definition
@@ -147,7 +212,6 @@ The main objective of this project is to introduce an upgraded call management c
 *End Customers need a way to get assistance quickly, because we don’t like to wait for long periods of time on a call.
 *End Customers need a way to be assured that our personal data is being protected when using the CMS because of the need to maintain data confidentiality 
 *End Customers need a way to be able to order the travel packages chosen with the RM because that will allow us to go on the trip
-
 
 **'How Might We' Statements**
 Relationship Managers
