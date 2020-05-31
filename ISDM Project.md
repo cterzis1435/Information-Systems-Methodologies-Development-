@@ -112,6 +112,7 @@ Use Case Diagrams
 ![Use Case 1 New](https://user-images.githubusercontent.com/62529427/83348763-c54d5400-a372-11ea-94e3-8b32e130d15d.png)
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
 ![ISDM Case Diagrams - Use Case 3 New](https://user-images.githubusercontent.com/61954383/83350931-fcc3fc80-a382-11ea-8212-a0a1f5fbfd3e.png)
+![ISDM Case Diagrams - Use Case 4 New](https://user-images.githubusercontent.com/61954383/83350985-8ecc0500-a383-11ea-8539-eaa3cb0db404.png)
 ![Use Case 5 New](https://user-images.githubusercontent.com/62529427/83348809-2543fa80-a373-11ea-8e1f-123d48bf5bb2.png)
 
 Class Diagrams
