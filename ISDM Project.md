@@ -27,3 +27,38 @@ Uni work
 Empathy Maps
 ![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png)
 ![Empathy Map- RM](https://user-images.githubusercontent.com/62529427/83345571-14d25680-a358-11ea-9820-4923c72f36a7.png)
+
+Point of View Statements (POV)
+
+Relationship Manager:
+Relationship Managers need a way to improve the CMC system because the company would like to attract more end-customers.
+Relationship Managers need a way to connect with customers easily, because it makes their work more efficient.
+Relationship Managers need a way to more effectively use their skills and product knowledge, because it would help create more sales.
+A long term Relationship manager needs a way to use the new system in a similar way to the old system because it will make the transition easier to manage
+Relationship Managers need a way to easily construct their skills matrix, so that they can be matched with an appropriate customer.
+
+End Customer:
+End customers need a way to communicate our needs in a simple manner with the travel agents in order to obtain the information we require 
+End Customers need a way to be matched with helpful and knowledgeable RMs because we need to be able to efficiently communicate our travel plans
+End Customers need a way to get assistance quickly, because we don’t like to wait for long periods of time on a call.
+End Customers need a way to be assured that our personal data is being protected when using the CMS because of the need to maintain data confidentiality 
+End Customers need a way to be able to order the travel packages chosen with the RM because that will allow us to go on the trip
+
+‘How Might We’ Statements (HMW)
+
+Relationship Managers:
+HMW improve the CMC to attract more end-customers?
+HMW connects with customers more easily to make their communication with the customer more efficient?
+HMW effectively uses our skills and product knowledge at an extensive level to help increase our sales?
+HMW get customers to be matched with the correct RM with the correct product knowledge?
+HMW create and update our skill matrix so that our profile is accurate?
+HMW use our old knowledge of the system and implement our knowledge into the use of the new system?
+
+End-Customers:
+HMW communicates with the travel agents in a simple manner to get the information we need?
+HMW matches with a helpful and knowledgeable RM to efficiently discuss travel packages?
+HMW get quick assistance to not keep us waiting on the phone for too long?
+HMW ensure that our personal data is being protected while using the CMC System to help maintain data confidentiality 
+HMW order the travel packages that are being offered?
+
+
