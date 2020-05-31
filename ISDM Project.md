@@ -27,3 +27,20 @@ Uni work
 Empathy Maps
 ![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png)
 ![Empathy Map- RM](https://user-images.githubusercontent.com/62529427/83345571-14d25680-a358-11ea-9820-4923c72f36a7.png)
+
+Point of View Statements (POV)
+
+Relationship Manager:
+Relationship Managers need a way to improve the CMC system because the company would like to attract more end-customers.
+Relationship Managers need a way to connect with customers easily, because it makes their work more efficient.
+Relationship Managers need a way to more effectively use their skills and product knowledge, because it would help create more sales.
+A long term Relationship manager needs a way to use the new system in a similar way to the old system because it will make the transition easier to manage
+Relationship Managers need a way to easily construct their skills matrix, so that they can be matched with an appropriate customer.
+
+End Customer:
+End customers need a way to communicate our needs in a simple manner with the travel agents in order to obtain the information we require 
+End Customers need a way to be matched with helpful and knowledgeable RMs because we need to be able to efficiently communicate our travel plans
+End Customers need a way to get assistance quickly, because we don’t like to wait for long periods of time on a call.
+End Customers need a way to be assured that our personal data is being protected when using the CMS because of the need to maintain data confidentiality 
+End Customers need a way to be able to order the travel packages chosen with the RM because that will allow us to go on the trip
+
