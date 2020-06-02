@@ -1,3 +1,6 @@
+![Assignment Sheet](https://user-images.githubusercontent.com/62526546/83487778-010d2880-a4ef-11ea-81e6-db3cdc2514d9.PNG)
+
+
 ## Executive Summary
 This report outlines the analysis of an existing information system, the in-house Call Management Centre (CMC), at a major travel agency. It will offer a proposal of an improved system, that will provide assistance to employees at the agency, Relationship Managers (RM), so that they can provide a high quality, efficient service for customers, in order to improve company sales. In order to elicit requirements and generate an understanding of the overall system, analysis of the company’s description was undertaken, and any gaps in understanding were assumed.
 
