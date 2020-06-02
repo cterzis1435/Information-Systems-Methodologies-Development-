@@ -39,7 +39,7 @@ The implementation of Agile Methodology allowed our team to work collaboratively
 Our team used several activities from Scrum to help us complete the project. Firstly, creating user stories was an essential task which allowed us to further understand the customer and the problem presented allowing us to complete other tasks including diagrams, empathy maps and the product backlog. A product backlog was created so our team could see what user stories had to be completed and the priority and estimation of the tasks. Additionally, we had sprints, which allowed us to visualise how much time we had remaining for sections of the project. The project had 4 sprints and each sprint was allocated a time limit. For each sprint, our team would plan ahead on what work we wanted to complete within the sprint and how we would complete it. At the end of each sprint, we would review all work completed from all group members. With Github, we were able to perform this task using a function called ‘issues’, where each team member could create an issue while other team members could look at the issue and write down any comments they had on the work and review it. Through the use of the project board on GitHub, it allowed our team to understand the progress of the issues and the milestones set for the project. Overall, during the course of the project we would review the content created and update it in iterations to show the changes made, allowing us to confirm the content developed.
  
 ## Empathy Maps
-![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png){:class="img-responsive"}
+![Empathy Map- End-Customer](https://user-images.githubusercontent.com/62529427/83345543-970e4b00-a357-11ea-9ac5-6b437cb6dfb9.png)
 ![Empathy Map- RM](https://user-images.githubusercontent.com/62529427/83345571-14d25680-a358-11ea-9820-4923c72f36a7.png)
 
 ## Point of View Statements (POV)
@@ -119,7 +119,7 @@ We also used the Point of View statements created to empathise with stakeholders
 
 ## Diagrams
 ### Use Case Diagrams
-![Use Case 1 New](https://user-images.githubusercontent.com/62526546/83487496-7c220f00-a4ee-11ea-8d65-b6546e350d23.png)
+![Use Case 1 New](https://user-images.githubusercontent.com/62526546/83487496-7c220f00-a4ee-11ea-8d65-b6546e350d23.png) {:class="img-responsive"}
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
 ![Use Case 3](https://user-images.githubusercontent.com/62526546/83492827-3453b580-a4f7-11ea-8e0a-3a98cb1d2e1f.PNG)
 ![ISDM Case Diagrams - Use Case 4 New](https://user-images.githubusercontent.com/61954383/83350985-8ecc0500-a383-11ea-8539-eaa3cb0db404.png)
