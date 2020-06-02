@@ -119,7 +119,7 @@ We also used the Point of View statements created to empathise with stakeholders
 
 ## Diagrams
 ### Use Case Diagrams
-![Use Case 1 New](https://user-images.githubusercontent.com/62526546/83487496-7c220f00-a4ee-11ea-8d65-b6546e350d23.png) {:class="img-responsive"}
+![Use Case 1 New](https://user-images.githubusercontent.com/62526546/83487496-7c220f00-a4ee-11ea-8d65-b6546e350d23.png) 
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
 ![Use Case 3](https://user-images.githubusercontent.com/62526546/83492827-3453b580-a4f7-11ea-8e0a-3a98cb1d2e1f.PNG)
 ![ISDM Case Diagrams - Use Case 4 New](https://user-images.githubusercontent.com/61954383/83350985-8ecc0500-a383-11ea-8539-eaa3cb0db404.png)
@@ -135,7 +135,7 @@ We also used the Point of View statements created to empathise with stakeholders
 ![RM Profile Collab-D](https://user-images.githubusercontent.com/62529427/83348929-e8c4ce80-a373-11ea-86e9-57011fdfb58e.png)
 
 ### Activity Diagrams
-![ISDM Case Diagrams - Activity Diagram - Inbound Call ](https://user-images.githubusercontent.com/61954383/83351156-f040a380-a384-11ea-85c8-486c3bdae064.png)
+![ISDM Case Diagrams - Activity Diagram - Inbound Call ](https://user-images.githubusercontent.com/61954383/83351156-f040a380-a384-11ea-85c8-486c3bdae064.png){:class="img-responsive"}
 ![ISDM Case Diagrams - Activity Diagram - Outbound Diagram](https://user-images.githubusercontent.com/61954383/83351241-912f5e80-a385-11ea-8e00-656076cfe0bf.png)
 
 
