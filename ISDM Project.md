@@ -135,7 +135,7 @@ We also used the Point of View statements created to empathise with stakeholders
 ![RM Profile Collab-D](https://user-images.githubusercontent.com/62529427/83348929-e8c4ce80-a373-11ea-86e9-57011fdfb58e.png)
 
 ### Activity Diagrams
-![ISDM Case Diagrams - Activity Diagram - Inbound Call ](https://user-images.githubusercontent.com/61954383/83351156-f040a380-a384-11ea-85c8-486c3bdae064.png){:class="img-responsive"}
+![ISDM Case Diagrams - Activity Diagram - Inbound Call ](https://user-images.githubusercontent.com/61954383/83351156-f040a380-a384-11ea-85c8-486c3bdae064.png)
 ![ISDM Case Diagrams - Activity Diagram - Outbound Diagram](https://user-images.githubusercontent.com/61954383/83351241-912f5e80-a385-11ea-8e00-656076cfe0bf.png)
 
 
