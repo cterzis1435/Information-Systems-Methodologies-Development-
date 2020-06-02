@@ -121,7 +121,7 @@ We also used the Point of View statements created to empathise with stakeholders
 ### Use Case Diagrams
 ![Use Case 1 New](https://user-images.githubusercontent.com/62526546/83487496-7c220f00-a4ee-11ea-8d65-b6546e350d23.png)
 ![Use Case 2 New](https://user-images.githubusercontent.com/62529427/83348781-f463c580-a372-11ea-96c6-2530faef95a2.png)
-![ISDM Case Diagrams - Use Case 3 New](https://user-images.githubusercontent.com/61954383/83350931-fcc3fc80-a382-11ea-8212-a0a1f5fbfd3e.png)
+![Use Case 3](https://user-images.githubusercontent.com/62526546/83492827-3453b580-a4f7-11ea-8e0a-3a98cb1d2e1f.PNG)
 ![ISDM Case Diagrams - Use Case 4 New](https://user-images.githubusercontent.com/61954383/83350985-8ecc0500-a383-11ea-8539-eaa3cb0db404.png)
 ![Use Case 5 New](https://user-images.githubusercontent.com/62529427/83348809-2543fa80-a373-11ea-8e1f-123d48bf5bb2.png)
 ![ISDM Case Diagrams - Use Case Overall](https://user-images.githubusercontent.com/61954383/83351019-e5394380-a383-11ea-84a6-ecbeb0e8b2f5.png)
