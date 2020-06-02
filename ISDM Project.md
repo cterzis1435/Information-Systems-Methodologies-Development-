@@ -69,7 +69,7 @@ End-Customers:
 * HMW communicates with the travel agents in a simple manner to get the information we need?
 * HMW matches with a helpful and knowledgeable RM to efficiently discuss travel packages?
 * HMW get quick assistance to not keep us waiting on the phone for too long?
-* HMW ensure that our personal data is being protected while using the CMC System to help maintain data confidentiality 
+* HMW ensure that our personal data is being protected while using the CMC System to help maintain data confidentiality?
 * HMW order the travel packages that are being offered?
 
 ## Assumptions 
