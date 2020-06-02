@@ -151,7 +151,8 @@ If the proposed project implementation were to fail, this would result in variou
 Foremost, investments made for the planning, tools and other labour involved in the implementation of the project would be lost, which could negatively impact the travel agency’s profits and long-term financial position. The company would now have to spend further allocated time and money on developing and testing a new system or instead planning how to modify the system to implement it successfully. This would cause delays in future business plans, for example expansion or differentiation plans, inhibiting their abilities to fulfil their business objectives.
 Employees of the travel agency also become unfavourably impacted by the system project failure, as they may become frustrated and unmotivated to perform their tasks, due to the disruptive changes in the workplace. This may lead to weaker customer relationships and hence decreased total sales generated. This impact may reflect in social aspects, such as reputational damage, where the company may be seen as incapable of producing and implementing a functional system, potentially impacting their corporate status and relationship with other businesses.
 
-
+## ISDM Presentation
+https://youtu.be/lsByOS4it88
 
 
 
